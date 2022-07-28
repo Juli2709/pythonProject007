@@ -1,0 +1,10 @@
+user_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(user_list[2])
+print(user_list[-2])
+print(user_list[:5])
+print(user_list[7:])
+print(user_list[::2])
+print(user_list[1::2])
+print(user_list[::-1])
+print(user_list[::-2])
+print(len(user_list))
